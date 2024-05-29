@@ -4,7 +4,7 @@ Frequently Asked Questions
 The [TED AI Open Source Hackathon](https://ai-event.ted.com/hackathon) is an exciting programming event that challenges you to find ways to use Generative AI to tackle social and environmental issues. You will have the opportunity to use your coding skills and collaborate with fellow developers, all in the name of good.
 
 ## When and where will the hackathon take place?
-It will be held the weekend prior to the TED AI conference, which is scheduled for Oct 14 and 15, 2023 at Microsoft Reactor in San Francisco, CA. The hackathon is scheduled to start at 10 AM Oct 14, and run through Oct 15 4 PM, spanning 30 hours of hackathon adventure. 
+The hackathon is scheduled for Oct 19 and 20, 2024 at Microsoft Reactor in San Francisco, CA. This is the weekend before the TED AI conference.
 
 ### Site Address: 
 Microsoft Reactor 
@@ -21,12 +21,8 @@ Reception is on the 2nd floor, hackathon will be on the 3rd floor.
    Daily Rate: $35  
  - 550 Kearny Garage  
    Entrance Address: 655 Sacramento St  
-   Hourly Rate: $12  
+   Hourly Rate: $15  
    Daily Rate: $30  
-- 600 California Garage  
-   Entrance Address: 711 Sacramento St  
-   Hourly Rate: $12  
-   Daily Rate: $30   
 - Public Transportation  
    BART/Muni: Montgomery Station – 0.3 miles, 5 minute walk  
    Caltrain – San Francisco Station – 1.5 miles, 20 minute drive  
@@ -53,11 +49,11 @@ Reception is on the 2nd floor, hackathon will be on the 3rd floor.
 
 ## What is the hackathon timeline?
 
-Aug 18: Application open  
-Sep 29: Application close  
-Sep 15: Teams announced  
-Oct 14: Hackathon start  
-Oct 15:  Hackathon end  
+TBD: Application open  
+Sep 6: Application close  
+Sep 20: Teams announced  
+Oct 19: Hackathon start  
+Oct 20:  Hackathon end  
 
 ## How can I participate in the hackathon?
 Register your team at https://ai-event.ted.com/hackathon.  We will then evaluate their submission and let them know. The space is limited so don't wait.
@@ -81,10 +77,10 @@ Participants should bring their own laptops, chargers, and any other tools or so
 The hackathon is technology-agnostic, meaning you are free to choose any tool, modern programming language used by AI tools, framework, or technology stack to develop your AI solution. The focus is on creativity, innovation, and the practical maintainable implementation of AI concepts.
 
 ## Are there any tools that are offering credits?
-Several companies are offering access to enterprise versions of their open source software for the participants. For example, [LangSmith](https://www.langchain.com/langsmith) and [Replit Pro](https://replit.com/pricing). Some other companies are offering credits to build applications using their software. For example, [Deepgram](https://deepgram.com/), [Qdrant](https://qdrant.tech/), and [Milvus](https://milvus.io/).
+Coming Soon
 
 ## How long is the hackathon?
-The TED AI Hackathon will span 30 hours starting at 10am on Oct 14, 2023 and ending at 4pm on Oct 15, 2023.
+The TED AI Hackathon will span 30 hours starting at 10am on Oct 19, 2023 and ending at 4pm on Oct 20, 2023.
 
 ## Will there be technical support available?
 We will provide space, power, and Internet connectivity for the hackathon. There will be some limited mentoring and technical support available. Your team should have all the skills to troubleshoot any technical issues otherwise.
@@ -96,7 +92,7 @@ The judging criteria for the hackathon will consider factors such as innovation,
 More details about cloud access will be provided closer to the hackathon date.
 
 ## Are there any prizes for the winners?
-Venture Science is supporting the TED AI Hackathon by offering an unprecedented opportunity for innovation and entrepreneurship. The winner of the hackathon will receive a potential $25,000 investment to turn their hackathon project into a fully-fledged startup! Read more details at https://www.venture-science.com/ted-ai-hackathon-2023.
+Coming Soon
 
 ## Can I attend the hackathon even if I am not participating?
 The hackathon is only intended for registered participants.
