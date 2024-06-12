@@ -1,7 +1,7 @@
 Frequently Asked Questions
 
 ## What is TED AI Open Source Hackathon?
-The [TED AI Open Source Hackathon](https://ai-event.ted.com/hackathon) is an exciting programming event that challenges you to find ways to use Generative AI to tackle social and environmental issues. You will have the opportunity to use your coding skills and collaborate with fellow developers, all in the name of good.
+The [TED AI Open Source Hackathon](https://tedai-sanfrancisco.ted.com/hackathon/) is an exciting programming event that challenges you to find ways to use Generative AI to tackle social and environmental issues. You will have the opportunity to use your coding skills and collaborate with fellow developers, all in the name of good.
 
 ## When and where will the hackathon take place?
 The hackathon is scheduled for Oct 19 and 20, 2024 at Microsoft Reactor in San Francisco, CA. This is the weekend before the TED AI conference.
@@ -56,7 +56,7 @@ Oct 19: Hackathon start
 Oct 20:  Hackathon end  
 
 ## How can I participate in the hackathon?
-Register your team at https://ai-event.ted.com/hackathon.  We will then evaluate their submission and let them know. The space is limited so don't wait.
+Register your team at https://tedai-sanfrancisco.ted.com/hackathon/.  We will then evaluate their submission and let them know. The space is limited so don't wait.
 
 ## Who can participate in the hackathon?
 This would be available to anybody who can bring a team of people and is passionate about solving societal and environmental issues using the power of AI. Technical skills will be required in some combinations across the team in roles such as: Subject matter expert,  Data Scientist,  Developer, Designer/Developer, among other possibilities. You don't need to be a TED AI attendee to participate in this hackathon. 
@@ -109,5 +109,5 @@ Data should come from public sources with Creative Commons or permissive license
 LF AI & Data Foundation has created a GitHub organization. We recommend all participants publish their source code as a repo to this organization. The code must use an OSI-approved license.
 
 ## How do I contact organizers about the hackathon?
-Send us an email at tedaihackathon@xy.ai.
+Send us an email at  TEDAI.hackathon@gmail.com.
 
