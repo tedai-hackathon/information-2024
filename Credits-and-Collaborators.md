@@ -6,7 +6,7 @@ The Control Panel for AI Apps which helps you ship reliable, fast, and cost-effi
 
 We're excited to share that Portkey AI is offering every TED AI Hackathon attendee a free Portkey account loaded with $100 LLM credits 😀 that you can use across 200 different LLMs - which includes everything from private LLMs from OpenAI/Anthropic/Google to open source LLMs like Llama/Mistral to the ones hosted on cloud providers like GCP/Azure/AWS.
 
-# Collaborations
+# Collaborations - Side Prizes! 💰
 [Postman](https://postman.com/) 
 
 🚀 Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.
