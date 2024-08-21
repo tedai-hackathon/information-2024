@@ -6,6 +6,27 @@ The Control Panel for AI Apps which helps you ship reliable, fast, and cost-effi
 
 We're excited to share that Portkey AI is offering every TED AI Hackathon attendee a free Portkey account loaded with $100 LLM credits 😀 that you can use across 200 different LLMs - which includes everything from private LLMs from OpenAI/Anthropic/Google to open source LLMs like Llama/Mistral to the ones hosted on cloud providers like GCP/Azure/AWS.
 
+[Vectara](https://vectara.com/) 
+
+Vectara provides a Trusted Generative AI platform. Our serverless RAG-as-a-Service allows organizations to rapidly create AI assistants and agents which are grounded in the data, documents, and knowledge that they have. Using Vectara helps builders address critical problems required for enterprise adoption, namely: reducing hallucination, providing explainability / provenance, enabling real-time updatability of the knowledge, and mitigating of intellectual property / bias concerns from large language models.
+
+Our platform's free tier is available to everyone to get started and build exciting applications and projects during this hackathon.
+We will be offering a special prize of **$1500 in credits** on our platform for the best project that uses Vectara in the hackathon.
+
+More resources:
+* [Sign-up for Vectara](https://console.vectara.com/signup/?utm_source=event&utm_medium=hackathon&utm_term=sign-up&utm_content=TED-AI&utm_campaign=event-hackathon-sign-up-TED-AI)
+* [Documentation](https://docs.vectara.com/docs)
+* [Hacker guide](https://vectara.com/hacker-guide/)
+* [Discord server](https://discord.com/invite/GFb8gMz6UH)
+* [blog](https://vectara.com/blog/)
+* [Demo RAG applications](https://vectara.com/demos/)
+* Open source: 
+  * [vectara-ingest](https://github.com/vectara/vectara-ingest) - for data ingest
+  * [vectara-answer](https://github.com/vectara/vectara-answer) - for beautiful Question-answering applications
+  * [react-chatbot](https://vectara.github.io/react-chatbot/) - integrate a Vectara chatbot in your React App.
+  * [vectara-agentic](https://pypi.org/project/vectara-agentic/) and its [docs](https://vectara.github.io/vectara-agentic-docs/), for building Agentic RAG applications.
+
+
 # Collaborations
 [Postman](https://postman.com/) 
 
@@ -17,6 +38,7 @@ Eligibility: Use at least two of [Postman's verified Publisher's APIs](https://w
 
 2. **$500**
 Eligiblity: Send in a Public Workspace with a Postman collection in it.
+
 
 # Postman Resources
 1. [Postman Public Workspaces](https://learning.postman.com/docs/collaborating-in-postman/using-workspaces/public-workspaces/)
