@@ -95,12 +95,18 @@ More details about cloud access will be provided closer to the hackathon date.
 Coming Soon
 
 ## Can I attend the hackathon even if I am not participating?
-The hackathon is only intended for registered participants. 
+The hackathon is only intended for registered participants.
+
+## Can the TED AI Hackathon provide travel support?
+No, we do not have resources to help with travel costs or other forms of travel support.
+
+## Can the TED AI Hackathon help me get a visa?
+No, we do not have resources to help with acquiring a visa.
 
 ## How can I stay updated on hackathon announcements?
 To stay updated on hackathon announcements, make sure to regularly check the official TED AI conference website, follow the TED AI social media accounts, and subscribe to the TED AI newsletter.  
 
-If you have any further questions or need additional information, please do not hesitate to reach out to the hackathon core team using tedai.hackathon@gmail.com.
+If you have any further questions or need additional information, please do not hesitate to reach out to the hackathon core team using TEDAI.hackathon@gmail.com.
 
 ## What data may I use?
 Data should come from public sources with Creative Commons or permissive licenses or cited according to the data creator’s/publisher’s guidance. The data used in the hackathon must be accessible to a global audience. 
