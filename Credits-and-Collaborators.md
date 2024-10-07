@@ -33,7 +33,7 @@ Developing your RAG applications with Vectara helps you address critical issues 
 
 Our platform's free tier is available to everyone to get started and build exciting applications and projects during this hackathon.
 
-We will be offering a special prize of **$2000 in credits** on our platform for the best project that uses Vectara in the hackathon.
+> **TED AI Hackathon prize**: we will be offering a special prize of **$2000 in credits** on our platform for the "best project that uses Vectara" in the hackathon.
 
 ### Vectara resources:
 * [Sign-up for Vectara](https://console.vectara.com/signup/?utm_source=event&utm_medium=hackathon&utm_term=sign-up&utm_content=TED-AI&utm_campaign=event-hackathon-sign-up-TED-AI)
