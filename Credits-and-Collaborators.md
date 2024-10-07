@@ -42,8 +42,8 @@ Our platform's free tier is available to everyone to get started and build excit
 * [Our Discord community](https://discord.com/invite/GFb8gMz6UH)
 
 Agentic RAG: [vectara-agentic](https://pypi.org/project/vectara-agentic/) is a Python package to build AI assistant and Agent applications using Vectara
-* [documentation](https://vectara.github.io/vectara-agentic-docs/)
-* demos: [legal-assistant](https://huggingface.co/spaces/vectara/legal-assistant), [Justice Harvard teaching-assistant](https://huggingface.co/spaces/vectara/Justice-Harvard), [finance-assistant](https://huggingface.co/spaces/vectara/finance-assistant)
+* vectara-agentic [documentation](https://vectara.github.io/vectara-agentic-docs/)
+* sample code and demos: [legal-assistant](https://huggingface.co/spaces/vectara/legal-assistant), [Justice Harvard teaching-assistant](https://huggingface.co/spaces/vectara/Justice-Harvard), [finance-assistant](https://huggingface.co/spaces/vectara/finance-assistant)
 
 Hallucination is a key issue with LLMs and RAG. Check out these resources about our hallucination detection model (aka HHEM):
 * [HHEM](https://huggingface.co/vectara/hallucination_evaluation_model)
