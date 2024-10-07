@@ -39,7 +39,6 @@ Our platform's free tier is available to everyone to get started and build excit
 * [Sign-up for Vectara](https://console.vectara.com/signup/?utm_source=event&utm_medium=hackathon&utm_term=sign-up&utm_content=TED-AI&utm_campaign=event-hackathon-sign-up-TED-AI)
 * [Hacker guide](https://vectara.com/hacker-guide/)
 * [API Documentation](https://docs.vectara.com/docs)
-applications
 * [Our Discord community](https://discord.com/invite/GFb8gMz6UH)
 
 Agentic RAG: [vectara-agentic](https://pypi.org/project/vectara-agentic/) is a Python package to build AI assistant and Agent applications using Vectara
