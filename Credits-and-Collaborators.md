@@ -33,12 +33,12 @@ Developing your RAG applications with Vectara helps you address critical issues 
 
 Our platform's free tier is available to everyone to get started and build exciting applications and projects during this hackathon.
 
-We will be offering a special prize of **$2000 in credits** on our platform for the best project that uses Vectara in the hackathon.
+> **TED AI Hackathon prize**: we will be offering a special prize of **$2000 in credits** on our platform for the "best project that uses Vectara" in the hackathon.
 
 ### Vectara resources:
-* [Sign-up for Vectara](https://console.vectara.com/signup/?utm_source=event&utm_medium=hackathon&utm_term=DevRel&utm_content=TED-AI&utm_campaign=event-hackathon-DevRel-TED-AI)
-* [Documentation](https://docs.vectara.com/docs)
+* [Sign-up for Vectara](https://console.vectara.com/signup/?utm_source=event&utm_medium=hackathon&utm_term=sign-up&utm_content=TED-AI&utm_campaign=event-hackathon-sign-up-TED-AI)
 * [Hacker guide](https://vectara.com/hacker-guide/)
+
 * [Discord server](https://discord.com/invite/GFb8gMz6UH)
 * [Blog](https://vectara.com/blog/)
 * [Demo RAG applications](https://vectara.com/demos/)
@@ -51,9 +51,27 @@ We will be offering a special prize of **$2000 in credits** on our platform for 
 
 We will be adding more resources to this page. Stay tuned!
 
+* [API Documentation](https://docs.vectara.com/docs)
+* [Our Discord community](https://discord.com/invite/GFb8gMz6UH)
+
+Agentic RAG: [vectara-agentic](https://pypi.org/project/vectara-agentic/) is a Python package to build AI assistant and Agent applications using Vectara
+* vectara-agentic [documentation](https://vectara.github.io/vectara-agentic-docs/)
+* sample code and demos: [legal-assistant](https://huggingface.co/spaces/vectara/legal-assistant), [Justice Harvard teaching-assistant](https://huggingface.co/spaces/vectara/Justice-Harvard), [finance-assistant](https://huggingface.co/spaces/vectara/finance-assistant)
+
+Hallucination is a key issue with LLMs and RAG. Check out these resources about our hallucination detection model (aka HHEM):
+* [HHEM](https://huggingface.co/vectara/hallucination_evaluation_model)
+* [HHEM Leaderboard](https://huggingface.co/spaces/vectara/leaderboard)
+* HHEM [blog post](https://vectara.com/blog/hhem-2-1-a-better-hallucination-detection-model/)
+
+We have created a few open-source repositories that you might find helpful:
+* [vectara-ingest](https://github.com/vectara/vectara-ingest) - for data ingest into Vectara
+* [vectara-answer](https://github.com/vectara/vectara-answer) - for building beautiful Question-answering applications with React
+* [react-chatbot](https://vectara.github.io/react-chatbot/) - integrate a Vectara chatbot in your React App
+* [RAGTime](https://github.com/vectara/ragtime) - build a Slack or Discord bot, powered by Vectara RAG
+
 ## [Bright Data](https://brightdata.com/) 
 
-Bright Data is the world’s #1 web data collection company that offers an all-in-one platform for proxies and web scraping. Our platform allows you to access, collect, and structure publicly available data at scale.
+Bright Data is the world’s \#1 web data collection company that offers an all-in-one platform for proxies and web scraping. Our platform allows you to access, collect, and structure publicly available data at scale.
 Our data collection tools include:
 - Proxies & Web Unlocking: Data Centers, ISP, Residential, Mobile IPs, CAPTCHA solving, Scraping browser automation, Search engine scraping.
 - Structred Data: Ready made datasets, Web Scraper API, Web Scrapering colud solution
@@ -64,3 +82,4 @@ Each team will receive $3,500 worth of credits to use on Bright Data various web
 
 ### Useful info
 [Products documentation](https://docs.brightdata.com/introduction) | [Impact Use Cases](https://brightinitiative.com/partners-stories) | Schedule platform overview with us: [Keshet](https://calendly.com/keshet_brightdata/bright-data-x-tedai-san-francisco-hackathon) / [Daniel](https://calendly.com/danielpi_brightdata/bright-data-x-tedai-sf)
+
