@@ -11,7 +11,7 @@ Microsoft Reactor
 555 California Street, Suite 200 
 San Francisco, CA 94104 
 
-Reception is on the 2nd floor, hackathon will be on the 3rd floor. 
+Reception is on the 2nd floor, hackathon will be on the 3rd floor. Only confirmed participants will be permitted to access the space; access is granted via QR code. QR codes will be sent to participants 24 hours in advance of the hackathon from "Microsoft Corporation at VORNADO at 555 California St." QR codes may not be shared, and walk up QR codes will not be issued. Please message reactorsf@microsoft.com if you are a confirmed participant and cannot locate your QR code. Please check your spam folder before messaging!
 
 ### Parking: 
 
@@ -97,10 +97,16 @@ Coming Soon
 ## Can I attend the hackathon even if I am not participating?
 The hackathon is only intended for registered participants.
 
+## Can the TED AI Hackathon provide travel support?
+No, we do not have resources to help with travel costs or other forms of travel support.
+
+## Can the TED AI Hackathon help me get a visa?
+No, we do not have resources to help with acquiring a visa.
+
 ## How can I stay updated on hackathon announcements?
 To stay updated on hackathon announcements, make sure to regularly check the official TED AI conference website, follow the TED AI social media accounts, and subscribe to the TED AI newsletter.  
 
-If you have any further questions or need additional information, please do not hesitate to reach out to the hackathon core team using tedaihackathon@xy.ai.
+If you have any further questions or need additional information, please do not hesitate to reach out to the hackathon core team using TEDAI.hackathon@gmail.com.
 
 ## What data may I use?
 Data should come from public sources with Creative Commons or permissive licenses or cited according to the data creator’s/publisher’s guidance. The data used in the hackathon must be accessible to a global audience. 
