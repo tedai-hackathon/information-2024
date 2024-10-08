@@ -54,7 +54,7 @@ We have created a few open-source repositories that you might find helpful:
 * [vectara-ingest](https://github.com/vectara/vectara-ingest) - for data ingest into Vectara
 * [vectara-answer](https://github.com/vectara/vectara-answer) - for building beautiful Question-answering applications with React
 * [react-chatbot](https://vectara.github.io/react-chatbot/) - integrate a Vectara chatbot in your React App
-* [RAGTime](https://github.com/vectara/ragtime) - build a Slack or Discord bot, powered by Vectara RA
+* [RAGTime](https://github.com/vectara/ragtime) - build a Slack or Discord bot, powered by Vectara RAG
 
 ## [Bright Data](https://brightdata.com/) 
 
