@@ -55,3 +55,17 @@ We have created a few open-source repositories that you might find helpful:
 * [vectara-answer](https://github.com/vectara/vectara-answer) - for building beautiful Question-answering applications with React
 * [react-chatbot](https://vectara.github.io/react-chatbot/) - integrate a Vectara chatbot in your React App
 * [RAGTime](https://github.com/vectara/ragtime) - build a Slack or Discord bot, powered by Vectara RAG
+
+## [Bright Data](https://brightdata.com/) 
+
+Bright Data is the world’s \#1 web data collection company that offers an all-in-one platform for proxies and web scraping. Our platform allows you to access, collect, and structure publicly available data at scale.
+Our data collection tools include:
+- Proxies & Web Unlocking: Data Centers, ISP, Residential, Mobile IPs, CAPTCHA solving, Scraping browser automation, Search engine scraping.
+- Structred Data: Ready made datasets, Web Scraper API, Web Scrapering colud solution
+
+Each team will receive $3,500 worth of credits to use on Bright Data various web data solutions. 
+[Sign up to our platform here](https://forms.gle/k9bkDLv4MdTTuoLa8) 
+* Please contact us at [info@brightinitiative.com](info@brightinitiative.com?subject=TEDAI%20SF%20Hackathon%3A%20I%20just%20opened%20an%20account%20on%20BD!) once you’ve created an account so we could allocate the relevant credits.
+
+### Useful info
+[Products documentation](https://docs.brightdata.com/introduction) | [Impact Use Cases](https://brightinitiative.com/partners-stories) | Schedule platform overview with us: [Keshet](https://calendly.com/keshet_brightdata/bright-data-x-tedai-san-francisco-hackathon) / [Daniel](https://calendly.com/danielpi_brightdata/bright-data-x-tedai-sf)
