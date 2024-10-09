@@ -114,6 +114,9 @@ Data should come from public sources with Creative Commons or permissive license
 ## Where will the code reside and what licenses will be considered?
 LF AI & Data Foundation has created a GitHub organization. We recommend all participants publish their source code as a repo to this organization. The code must use an OSI-approved license.
 
+## Can my entire team participate remotely?
+No, this is an in-person event. You can have a registered remote team member, but at least one team member must be present and it is the team's responsibility to manage the remote participation. 
+
 ## How do I contact organizers about the hackathon?
 Send us an email at  TEDAI.hackathon@gmail.com.
 
