@@ -69,3 +69,24 @@ Each team will receive $3,500 worth of credits to use on Bright Data various web
 
 ### Useful info
 [Products documentation](https://docs.brightdata.com/introduction) | [Impact Use Cases](https://brightinitiative.com/partners-stories) | Schedule platform overview with us: [Keshet](https://calendly.com/keshet_brightdata/bright-data-x-tedai-san-francisco-hackathon) / [Daniel](https://calendly.com/danielpi_brightdata/bright-data-x-tedai-sf)
+
+## [Infinity AI](https://infinity.ai/)
+[Infinity AI](https://infinity.ai/) is a video foundation model. The Infinity V2 model enables generation of talking head videos from any image - from photos to cartoons to paintings.
+
+For this hackathon, Infinity is offering two side prizes. Any team who submits a project that meets the eligibility criteria is eligible to win. For example, teams might: 
+* Generate personalized education videos for every child with the child’s favorite cartoon character 
+* Send personalized daily videos that keep citizens engaged with important climate news 
+* Inspire more global unity by automatically generating announcement videos in every language by a region-specific spokesperson  
+
+### Infinity Prizes 
+1. **$500 Cash Prize and $500 API Credits.** Eligibility: Use Infinity’s video API as a core part of your app. 
+2. **$100 Cash Prize and $100 API Credits.** Eligibility: Either use Infinity’s video API as a core part of your app or use Infinity-generated video(s) as a core part of your final presentation/demo. 
+
+### For prototyping purposes   
+**$25 API credits will be given to all hackathon teams.** To redeem, email <a href="mailto:founders@infinity.ai">founders@infinity.ai</a>. Include 1) your team name for the hackathon, and 2) the email of the account who should receive the credits (ensure you've created an account already at infinity.ai). 
+
+### For all hackathon teams   
+**The Infinity Web app is free to use ([studio.infinity.ai](https://studio.infinity.ai)).** Take your demos to the next level by bringing your user personas (“Meet Amy…”) to life in a video, or create an imagined testimonial video from people all around the world sharing how they’ll use your product.  
+
+[API Documentation](https://studio.infinity.ai/developer) | [Infinity Gallery](https://studio.infinity.ai)
+
