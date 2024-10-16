@@ -21,8 +21,7 @@ This document outlines the criteria that will be used to judge the entries for t
    * If applicable, is the interface intuitive and easy to navigate?
 7. Presentation and Documentation (1-20 points)
    * How effectively has the team communicated their idea, implementation strategy, and potential impact?
-   * Is the project well-documented, allowing for understanding and potential replication of the work?
- 
+   * Is the project well-documented, allowing for understanding and potential replication of the work? 
 8. Responsible AI (1-20 points)
    * Does the project provide benefit to its users without causing harm?
    * Is user data protected and used with consent?
