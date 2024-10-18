@@ -61,7 +61,7 @@ We have created a few open-source repositories that you might find helpful:
 Bright Data is the world’s \#1 web data collection company that offers an all-in-one platform for proxies and web scraping. Our platform allows you to access, collect, and structure publicly available data at scale.
 Our data collection tools include:
 - Proxies & Web Unlocking: Data Centers, ISP, Residential, Mobile IPs, CAPTCHA solving, Scraping browser automation, Search engine scraping.
-- Structred Data: Ready made datasets, Web Scraper API, Web Scrapering colud solution
+- Structured Data: Ready made datasets, Web Scraper API, Web Scrapering colud solution
 
 Each team will receive $3,500 worth of credits to use on Bright Data various web data solutions. 
 [Sign up to our platform here](https://forms.gle/k9bkDLv4MdTTuoLa8) 
