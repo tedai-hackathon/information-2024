@@ -17,6 +17,8 @@ Eligibility: Use at least two of [Postman's verified Publisher's APIs](https://w
 1. **$500**
 Eligiblity: Send in a Public Workspace with a Postman collection in it.
 
+[Submission form for your Public Workspace here!](https://forms.gle/MxZMsnC6BwHuBqch9)
+
 
 ### Postman Resources
 1. [Postman Public Workspaces](https://learning.postman.com/docs/collaborating-in-postman/using-workspaces/public-workspaces/)
